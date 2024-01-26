@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Poppins:wght@300;400;500;700&display=swap');
+.heading{
+ font-family: 'Bungee Spice', sans-serif;
+
+}
+.input{
+   
+    width: 390px;
+}
+
+.second{
+   padding-top: 21px; 
+ 
+}
+.second label{
+  padding-right: 20px;
+}
+#length{
+width: 270px;
+}
+
+.third {
+padding-bottom: 20%;
+}
+.checkbox{
+    margin-left: 20%;
+}
+.fourCheckbox{
+    margin-left: 22%;
+}
+.fivecheckbox{
+    margin-left: 18%;
+}
+#button{
+    background-color: rgb(0, 0, 0);
+  
+    width: 380px;
+     font-family: 'Bungee Spice', sans-serif;
+}
